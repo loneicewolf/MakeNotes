@@ -1,14 +1,8 @@
+
 # MakeNotes
 Linux, Hello World, with makefile. Both in USERMODE and KERNELMODE
 
-# TODO DROPDOWNS
-- [ ] USERMODE
-- [ ] KERNELMODE
-
-# 💻A) USERMODE HELLO WORKD MAKEFILE PROJECT
-
------
-
+<details><summary> USERMODE HELLO WORKD MAKEFILE PROJECT </summary>
 
 ## makefile with filename `Makefile`
 ```Makefile
@@ -63,15 +57,10 @@ int main() {
     Hello, World!
 ```
 
+</details>
 
 
-
------
-
-
-
-
-# 💻B) KERNELMODE HELLO WORKD MAKEFILE PROJECT
+<details><summary> KERNELMODE HELLO WORKD MAKEFILE PROJECT </summary>
 
 Makefile
 ```makefile
@@ -123,6 +112,33 @@ void cleanup_module(void){
 
 ```
 
+</details>
+
+
+<details><summary> Notes & Readigns </summary>
+
 
 ## References / Sources & Further Readings
 - [Loadable Kernel Modules(LKM)](https://gist.github.com/loneicewolf/226e3e20e6041d12a63a5e833ebb0503?permalink_comment_id=4452381#gistcomment-4452381)
+
+
+`- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - `
+### `// Below is to myself`
+markdown template
+```
+<div align="center">
+
+	HELLO
+
+</div>
+
+<details><summary> A </summary>
+
+</details>
+
+```
+
+`- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - `
+
+
+</details>
