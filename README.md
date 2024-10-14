@@ -1,5 +1,11 @@
 # MakeNotes
 Makefiles notes
+
+# TODO DROPDOWNS
+- [ ] USERMODE
+- [ ] KERNELMODE
+
+
 ## makefile with filename `Makefile`
 ```Makefile
 CC = gcc
@@ -51,5 +57,8 @@ int main() {
 
 [user@fedora CODE]$ ./hello 
     Hello, World!
-
 ```
+
+## References / Sources & Further Readings
+- This ^ Hello world project BUT in KERNELMODE [Loadable Kernel Modules(LKM)](https://gist.github.com/loneicewolf/226e3e20e6041d12a63a5e833ebb0503?permalink_comment_id=4452381#gistcomment-4452381)
+- 
